@@ -11,7 +11,7 @@ An elegant and lightweight music player plugin for the Hexo blog framework. Inte
 
 ### ✨ 效果截图 (Screenshot)
 
-![Hexo Music Player 效果演示](https://raw.githubusercontent.com/Pidbid/hexo-music-player/main/imgs/demo.png "播放器效果图")
+![Hexo Music Player 效果演示](https://github.com/Pidbid/hexo-music-player/blob/main/imgs/demo.png)
 
 ### 🚀 特性 (Features)
 
