@@ -1,0 +1,41 @@
+{
+  "name": "hexo-music-player",
+  "version": "0.1.0",
+  "description": "一款为 Hexo 博客设计的优雅、轻量级的音乐播放器插件。支持从网易云等音乐平台解析ID，也支持直接URL。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pidbid/hexo-music-player.git"
+  },
+  "keywords": [
+    "hexo",
+    "hexo-plugin",
+    "hexo-tag",
+    "music",
+    "player",
+    "audio",
+    "netease",
+    "embed"
+  ],
+  "author": "Pidbid <your-email@example.com> (https://github.com/Pidbid)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pidbid/hexo-music-player/issues"
+  },
+  "homepage": "https://github.com/Pidbid/hexo-music-player#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js",
+    "lib/",
+    "source/"
+  ],
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "node-fetch": "^2.7.0"
+  }
+}
