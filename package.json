@@ -1,6 +1,6 @@
 {
   "name": "hexo-music-player",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "一款为 Hexo 博客设计的优雅、轻量级的音乐播放器插件。支持从网易云等音乐平台解析ID，也支持直接URL。",
   "main": "index.js",
   "scripts": {
