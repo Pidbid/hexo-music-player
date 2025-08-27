@@ -13,6 +13,8 @@ An elegant and lightweight music player plugin for the Hexo blog framework. Inte
 
 ![Hexo Music Player 效果演示](https://github.com/Pidbid/hexo-music-player/blob/main/imgs/demo.png)
 
+
+
 ### 🚀 特性 (Features)
 
 * **两种模式**: 支持 `平台:ID` 智能解析和 `URL` 直接嵌入两种方式。
@@ -21,6 +23,12 @@ An elegant and lightweight music player plugin for the Hexo blog framework. Inte
 * **响应式**: 在桌面和移动设备上均有良好显示效果。
 * **轻量级**: 无需引入庞大的第三方库，只包含核心功能的 JS 和 CSS。
 * **开箱即用**: 安装即用，无需繁琐配置。
+
+### 链接与在线效果
+- [github](https://github.com/Pidbid/hexo-music-player)
+- [npm:hexo-music-player](https://www.npmjs.com/package/hexo-music-player)
+
+- [在线效果](http://wicos.me/jishu/1163/)
 
 ### 📦 安装 (Installation)
 
