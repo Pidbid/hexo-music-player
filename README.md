@@ -90,4 +90,7 @@ pnpm add hexo-music-player --save
 
 本项目基于 Apache 许可证。详情请见 [LICENSE](LICENSE) 文件。
 
+### 附加声明
+本项目不破解、存储任何平台音乐，只采用他人提供的接口，保留所有权利。
+
 © 2025 Pidbid
